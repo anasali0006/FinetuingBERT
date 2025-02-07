@@ -1,2 +1,2 @@
 # FinetuingBERT
-This repo contains code to finetune BERT using Huggigface Transformers. 
+This repo contains code to finetune BERT(variants) using Huggigface Transformers. 
